@@ -1,0 +1,6 @@
+model_checkpoint_path: "\\predictor\\model\\TextCNN\\50_20\\checkpoints\\model-3000"
+all_model_checkpoint_paths: "\\predictor\\model\\TextCNN\\50_20\\checkpoints\\model-2600"
+all_model_checkpoint_paths: "\\predictor\\model\\TextCNN\\50_20\\checkpoints\\model-2700"
+all_model_checkpoint_paths: "\\predictor\\model\\TextCNN\\50_20\\checkpoints\\model-2800"
+all_model_checkpoint_paths: "\\predictor\\model\\TextCNN\\50_20\\checkpoints\\model-2900"
+all_model_checkpoint_paths: "\\predictor\\model\\TextCNN\\50_20\\checkpoints\\model-3000"

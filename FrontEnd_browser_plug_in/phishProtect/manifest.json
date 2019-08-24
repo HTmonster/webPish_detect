@@ -1,0 +1,28 @@
+{
+  "name": "PhishProtect",
+  "version": "1.0",
+  "description": "PhishProtect drive by Django api",
+  "background": {
+    "persistent": false,
+    "scripts": ["js/libs/firebase.js", "js/libs/firebase-firestore.js", "js/modules/utils.js", "js/background.js"]
+  },
+  "icons": {
+    "128": "img/logo128.png"
+  },
+  "browser_action": {
+    "default_icon": "img/logo128.png",
+    "default_popup": "popup.html",
+    "default_title": "PhishProtect"
+  },
+  "options_ui": {
+    "page": "options.html",
+    "chrome_style": true
+  },
+  "permissions": [
+    "activeTab",
+    "tabs",
+    "storage",
+    "<all_urls>"
+  ],
+  "manifest_version": 2
+}

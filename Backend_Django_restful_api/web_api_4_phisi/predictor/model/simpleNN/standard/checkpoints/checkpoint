@@ -1,0 +1,6 @@
+model_checkpoint_path: "E:\\myProject\\TensorFlow\\Fish_learning\\train\\output\\simpleNN\\standard\\1559699711\\checkpoints\\model-10000"
+all_model_checkpoint_paths: "E:\\myProject\\TensorFlow\\Fish_learning\\train\\output\\simpleNN\\standard\\1559699711\\checkpoints\\model-9600"
+all_model_checkpoint_paths: "E:\\myProject\\TensorFlow\\Fish_learning\\train\\output\\simpleNN\\standard\\1559699711\\checkpoints\\model-9700"
+all_model_checkpoint_paths: "E:\\myProject\\TensorFlow\\Fish_learning\\train\\output\\simpleNN\\standard\\1559699711\\checkpoints\\model-9800"
+all_model_checkpoint_paths: "E:\\myProject\\TensorFlow\\Fish_learning\\train\\output\\simpleNN\\standard\\1559699711\\checkpoints\\model-9900"
+all_model_checkpoint_paths: "E:\\myProject\\TensorFlow\\Fish_learning\\train\\output\\simpleNN\\standard\\1559699711\\checkpoints\\model-10000"

@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>Phish.AI Protect</title>
+    <link rel="stylesheet" href="css/options.css" />
+    <style>
+    </style>
+</head>
+
+<body>
+    <div class="header">
+        <div class="header-photo"><img src="img/logo128.png" /></div>
+        <div class="header-text">
+            <p class="title-font">在线钓鱼防护</p>
+        </div>
+    </div>
+    <div class="container">
+        <p class="title-font">提醒强度</p>
+        <ul class="ul">
+            <li class="first-li">
+                <label>
+                    <input type="radio" name="type" id="1" value="radio1"  hidden/>
+                    <label for="1" class="advice"></label>
+                    <span class="radio-name">弱提醒</span>
+                </label>
+            </li>
+            <li>
+                <label>
+                    <input type="radio" name="type" id="2" value="radio2" checked hidden/>
+                    <label for="2" class="advice"></label>
+                    <span class="radio-name">强提醒</span>
+                </label>
+            </li>
+        </ul>
+
+        <p class="title2-font">允许用户行为分析</p>
+        <p class="details-font">开启此功能可更好地执行钓鱼防护</p>
+        <ul class="ul">
+            <li class="first-li">
+                <label>
+                    <input type="radio" name="type2" id="3" value="radio3"  hidden/>
+                    <label for="3" class="advice"></label>
+                    <span class="radio-name">是，用户ID<input type="text" id="usrID" placeholder="请输入用户id"></span>
+                </label>
+            </li>
+            <li>
+                <label>
+                    <input type="radio" name="type2" id="4" value="radio4" checked hidden/>
+                    <label for="4" class="advice"></label>
+                    <span class="radio-name">否</span>
+                </label>
+            </li>
+        </ul>
+        
+       
+
+        <div id="status"></div>
+        <button class="button button-save"id="save">保存</button>
+        <button class="button button-reset">重置为默认值</button>
+
+        <script src="js/options.js"></script>
+    </div>
+
+</body>
+
+</html>

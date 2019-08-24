@@ -1,0 +1,6 @@
+model_checkpoint_path: "E:\\myProject\\TensorFlow\\Fish_learning\\train\\output\\simpleNN\\slow\\1559699681\\checkpoints\\model-5000"
+all_model_checkpoint_paths: "E:\\myProject\\TensorFlow\\Fish_learning\\train\\output\\simpleNN\\slow\\1559699681\\checkpoints\\model-4600"
+all_model_checkpoint_paths: "E:\\myProject\\TensorFlow\\Fish_learning\\train\\output\\simpleNN\\slow\\1559699681\\checkpoints\\model-4700"
+all_model_checkpoint_paths: "E:\\myProject\\TensorFlow\\Fish_learning\\train\\output\\simpleNN\\slow\\1559699681\\checkpoints\\model-4800"
+all_model_checkpoint_paths: "E:\\myProject\\TensorFlow\\Fish_learning\\train\\output\\simpleNN\\slow\\1559699681\\checkpoints\\model-4900"
+all_model_checkpoint_paths: "E:\\myProject\\TensorFlow\\Fish_learning\\train\\output\\simpleNN\\slow\\1559699681\\checkpoints\\model-5000"

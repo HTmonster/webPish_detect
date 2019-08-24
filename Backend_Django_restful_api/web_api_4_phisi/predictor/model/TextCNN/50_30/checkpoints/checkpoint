@@ -1,0 +1,6 @@
+model_checkpoint_path: "E:\\myProject\\TensorFlow\\Fish_learning\\train\\output\\textCNN\\runs\\1559701209\\checkpoints\\model-2200"
+all_model_checkpoint_paths: "E:\\myProject\\TensorFlow\\Fish_learning\\train\\output\\textCNN\\runs\\1559701209\\checkpoints\\model-1800"
+all_model_checkpoint_paths: "E:\\myProject\\TensorFlow\\Fish_learning\\train\\output\\textCNN\\runs\\1559701209\\checkpoints\\model-1900"
+all_model_checkpoint_paths: "E:\\myProject\\TensorFlow\\Fish_learning\\train\\output\\textCNN\\runs\\1559701209\\checkpoints\\model-2000"
+all_model_checkpoint_paths: "E:\\myProject\\TensorFlow\\Fish_learning\\train\\output\\textCNN\\runs\\1559701209\\checkpoints\\model-2100"
+all_model_checkpoint_paths: "E:\\myProject\\TensorFlow\\Fish_learning\\train\\output\\textCNN\\runs\\1559701209\\checkpoints\\model-2200"

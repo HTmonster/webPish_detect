@@ -1,0 +1,21 @@
+.header{
+    text-align: center;
+}
+
+.container{
+    width:100%; 
+    height:80px;
+    background: #0CB754;
+}
+
+.container-img{
+    float:left;
+    width:80px; 
+    height:80px;
+    padding-top:0px;
+    
+}
+.container-text{
+    padding-top:20px;
+    font-size:28px;
+}
