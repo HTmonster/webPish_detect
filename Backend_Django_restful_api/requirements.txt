@@ -1,6 +1,6 @@
 beautifulsoup4==4.7.1
 bs4==0.0.1
-Django==2.2.1
+Django==2.2.13
 djangorestframework==3.9.4
 gensim==3.7.3
 lxml==4.3.3
