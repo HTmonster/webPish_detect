@@ -3,7 +3,7 @@ bs4==0.0.1
 Django==2.2.1
 djangorestframework==3.9.4
 gensim==3.7.3
-lxml==4.3.3
+lxml==4.6.2
 matplotlib==3.0.3
 numpy==1.16.3
 pandas==0.24.2
